@@ -14,7 +14,7 @@ import {
 
 const baseEndpoint = 
   process.env.NODE_ENV === "production" ? 
-    'produrlhere.com' : 
+    process.env.PROD_URL : 
     'http://localhost:3000';
 
 function makeClient() {
