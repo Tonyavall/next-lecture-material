@@ -1,4 +1,4 @@
-import './globals.css'
+import './index.css'
 import { Inter } from 'next/font/google'
 import ApolloWrapper from './_lib/client';
 
