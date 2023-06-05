@@ -10,7 +10,7 @@ To Students:
     
     c. npm run build -> builds prod
     
-  (2) To integrate authentication consider the following.
+  (2) To integrate authentication consider the following-
     a. [Middleware documentation and cookies for jwt storage](https://nextjs.org/docs/pages/building-your-application/routing/middleware)
     b. [NextAuth (recommended)](https://next-auth.js.org/)
     
